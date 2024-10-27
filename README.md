@@ -15,12 +15,6 @@ Frameworks: Django
 B.Tech in Computer Science and Engineering (AI-ML)
 Srinivasa Ramanujan Institute of Technology, Anantapur (2021-2025)
 CGPA: 7.2
-Board of Intermediate Education, MPC (12th)
-Narayana Junior College, Anantapur (2019-2021)
-CGPA: 8.4
-Board of Secondary Education (10th)
-Sri Chaitanya EM High School, Anantapur (2019)
-CGPA: 9.7
 🏆 Certifications & Projects
 Weather Data Logger
 Developed a project using Python, Django, HTML, and CSS to track real-time weather data through APIs. The project features a user-friendly interface and efficient database management using Django ORM.
